@@ -43,6 +43,5 @@ com.ximalaya.ting.android
 tv.danmaku.bili
 com.hupu.games
 com.tencent.mm
-com.xingin.xhs
 com.alibaba.android.rimet
 com.tencent.tmgp.sgame
